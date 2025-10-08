@@ -12,3 +12,4 @@ Built with **Django 5**, **Bootstrap 5**, and designed for easy learning and cus
 - ✅ Bootstrap 5 responsive design   
 
 ---
+git clone https://github.com/isamiul797-sketch/CRUD_gcbv.git
